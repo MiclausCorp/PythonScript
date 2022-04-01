@@ -1,0 +1,4 @@
+# .gitignore for PythonScript
+# Trademark and Copyright Darius Inc. 2021
+
+.DS_Store
