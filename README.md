@@ -1,6 +1,8 @@
 # PythonScript
 
-<img src="/Assets/Demo.png"/>
+<p align="center">
+<img width="400" align="center" alt="Demo" src="https://user-images.githubusercontent.com/70854359/161290577-d585ad26-f67d-4e41-b2fe-55ac393bbdd1.png">
+</p>
 
 **Have you ever wanted to run an interpreted language on top of another interpreted language?** If yes, then **PythonScript** is exactly for you!
 
